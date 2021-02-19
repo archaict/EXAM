@@ -1,0 +1,102 @@
+#+TITLE:[EXAM] Linux Basics
+
+File Format: *EXAM_LINUX_BASICS.md*
+#+begin_src yaml :results verbatim
+title: [EXAM] Linux Basics
+subtitle: End of Term Exam
+author: "your name"
+rights: © 2021 Big Data Team
+titlepage: true
+toc-own-page: true
+toc-depths: 2
+titlepage-color: "fafafa"
+#+end_src
+
+* 1. Linux Basics
+
+Create a few paragraph containing this topics:
+   - What is Linux
+   - Brief history of Linux
+   - Linux around us ( devices, IoT )
+
+* 2. Virtualization
+
+There are two approaches in virtualization,
+   explain each and its differences! Also give example
+   for the software they used!
+
+* 3. CLI & GUI
+
+Explain CLI & GUI and its differences!
+
+* 4. CLI Commands
+
+What is the command for:
+   - List
+   - Move
+   - Copy
+   - Remove
+   - To see content of a file
+   - Change Directory
+
+* 5. Directory Tree
+
+Create a directory tree using this information:
+   Parent Directory: [ your username ]
+   Child directory:
+   - [ Linux Basics ]
+   - [ Web Development ]
+   - [ AI and Bots ]
+   - [ Networking Basics ]
+   Each childs directory contains [ Meet_(1-9) ]
+
+#+begin_src
+  A
+  |
+  |--B
+  |--C
+    |--C1
+    |--C2
+  |--D
+  |--E
+    |--E1
+    |--E2
+#+end_src
+
+* 6. Alias
+
+Create =.alias= file in your $HOME [ ~ ]!
+NOTE: /don't forget to source your file!/
+
+   Alias file should contain this:
+#+begin_src bash :results verbatim
+alias la='ls -a'
+alias cl='clear'
+#+end_src
+
+* 7. Bash Script [ Tree ]
+
+Create a bash function/script that can create directory tree
+   that you've create in number 4! [ file format: =dir-tree.sh= ]
+   NOTE: /Don't forget to make it executable ( =+x= )/
+
+* 8. If Statement
+
+Create an if statement in block code that can evaluate
+   if =$1= ( argument ) or =variable= is a positive number or a negative number!
+   NOTE: /Write Algorithm first before creating a script!/
+
+* 9. For Loop
+
+Create a for loop that can show this:
+   NOTE: Variable used [ i, name, gate ]
+
+- Passenger number 1 name is Avery_Alderson to Gate 01
+- Passenger number 2 name is Oliver_Reston to Gate 01
+- Passenger number 3 name is Yuliya_Vorstakovich to Gate 01
+- Passenger number 4 name is Ling_Xue_Luo to Gate 01
+
+* 10. Github
+
+Upload your file into your github account!
+    Public Repo: arkiv_linux_basics
