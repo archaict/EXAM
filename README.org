@@ -77,7 +77,7 @@ alias cl='clear'
 * 7. Bash Script [ Tree ]
 
 Create a bash function/script that can create directory tree
-   that you've create in number 4! [ file format: =dir-tree.sh= ]
+   that you've created in number 5! [ file format: =dir-tree.sh= ]
    NOTE: /Don't forget to make it executable ( =+x= )/
 
 * 8. If Statement
