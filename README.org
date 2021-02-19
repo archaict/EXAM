@@ -48,7 +48,7 @@ Create a directory tree using this information:
    - [ Web Development ]
    - [ AI and Bots ]
    - [ Networking Basics ]
-   Each childs directory contains [ Meet_(1-9) ]
+   Each childs directory contains [ Meet_(1-8) ]
 
 #+begin_src
   A
