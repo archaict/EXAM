@@ -1,0 +1,45 @@
+#+TITLE:[EXAM] HTML & CSS
+
+File Format: *EXAM_HTML&CSS.md*
+#+begin_src yaml :results verbatim
+title: [EXAM] HTML & CSS
+subtitle: End of Term Exam
+author: "[ your name ]"
+rights: © 2021 [ username ]
+titlepage: true
+toc-own-page: true
+toc-depths: 2
+titlepage-color: "fafafa"
+#+end_src
+
+* 1. HTML & CSS
+
+Create a few paragraph with these topics in mind (1 paragraph each):
+    - What is Internet
+    - How does Internet works
+    - Describe HTML & CSS
+
+* 2. HTML Skeleton
+
+Create a skeleton that usually used in HTML, include this metadata:
+    - title: HTML & CSS.
+    - H1: Introduction to your project.
+    - Background: #222222
+    - Text Color: #fafafa
+
+* 3. Project
+
+Explain your project:
+    - Name of your Project
+    - Goal of your Project
+    - What you use to create your Project
+    - Tools that you use
+    - Website that you use for refference
+
+* 4. Tree
+
+Create a tree structure for your project!
+
+* 5. Github
+
+Upload your project to github!
