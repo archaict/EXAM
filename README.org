@@ -34,7 +34,7 @@ Explain your project:
     - Goal of your Project
     - What you use to create your Project
     - Tools that you use
-    - Website that you use for refference
+    - Website that you use for reference
 
 * 4. Tree
 
